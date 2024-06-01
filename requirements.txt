@@ -5,3 +5,4 @@ ipywidgets
 IPython
 Pillow
 opencv-python
+voila
